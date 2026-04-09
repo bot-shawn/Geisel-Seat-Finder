@@ -1,0 +1,5 @@
+floor_id,floor_name,total_seats,occupied_seats,noise_level,has_outlets,last_updated
+1,1st Floor (Social),200,120,Social,1,2026-04-07 21:54:34.135728
+2,2nd Floor (Main),300,269,Social,1,2026-04-08 00:02:47.239111
+4,4th Floor (Quiet),150,46,Quiet,1,2026-04-08 00:02:44.233719
+8,8th Floor (Silent),100,99,Silent,0,2026-04-08 00:02:32.202678
