@@ -41,3 +41,6 @@ app-example
 # generated native folders
 /ios
 /android
+
+# For IP Address Privacy
+.env
