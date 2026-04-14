@@ -1,25 +1,25 @@
 floor_id,floor_name,floor_section,total_seats,occupied_seats,noise_level,has_outlets,x_coord,y_coord,last_updated
-1,1st Floor (Quiet),Lower Floor East,150,46,Quiet,1,85,22,2026-04-13 10:19:52.803013
-1,1st Floor (Social),Lower Floor West,520,104,Social,1,21,22,2026-04-13 10:20:04.933000
-2,2nd Floor (Main),Geisel East,620,246,Social,1,84,33,2026-04-13 10:20:03.921056
-2,2nd Floor (Main),Geisel West,460,169,Social,1,18,61,2026-04-13 10:19:59.870054
-4,4th Floor (Quiet),Call Numbers A-D,20,5,Quiet,1,15,47,2026-04-13 10:15:24.085871
-4,4th Floor (Quiet),Call Numbers D-HG,20,5,Quiet,1,50,72,2026-04-13 10:19:47.757168
-4,4th Floor (Quiet),Call Numbers HG-PL,20,3,Quiet,1,83,45,2026-04-13 10:14:58.748394
+1,1st Floor (Quiet),Lower Floor East,150,45,Quiet,1,85,22,2026-04-13 10:19:52.803013
+1,1st Floor (Social),Lower Floor West,520,105,Social,1,21,22,2026-04-13 10:20:04.933000
+2,2nd Floor (Main),Geisel East,620,248,Social,1,84,33,2026-04-13 10:20:03.921056
+2,2nd Floor (Main),Geisel West,460,168,Social,1,18,61,2026-04-13 10:19:59.870054
+4,4th Floor (Quiet),Call Numbers A-D,20,6,Quiet,1,15,47,2026-04-13 10:15:24.085871
+4,4th Floor (Quiet),Call Numbers D-HG,20,7,Quiet,1,50,72,2026-04-13 10:19:47.757168
+4,4th Floor (Quiet),Call Numbers HG-PL,20,5,Quiet,1,83,45,2026-04-13 10:14:58.748394
 4,4th Floor (Quiet),Call Numbers PL-ZA,20,7,Quiet,1,50,14,2026-04-13 10:19:55.826637
-5,5th Floor (Quiet),Call Numbers A-BS,40,7,Quiet,1,19,47,2026-04-13 10:19:42.697912
-5,5th Floor (Quiet),Call Numbers BT-DF,40,12,Quiet,1,49,74,2026-04-13 10:19:36.633226
-5,5th Floor (Quiet),Call Numbers DG-E,35,9,Quiet,1,82,47,2026-04-13 10:19:28.563023
-5,5th Floor (Quiet),Call Numbers E-F,40,27,Quiet,1,50,18,2026-04-13 10:19:48.763959
+5,5th Floor (Quiet),Call Numbers A-BS,40,9,Quiet,1,19,47,2026-04-13 10:19:42.697912
+5,5th Floor (Quiet),Call Numbers BT-DF,40,11,Quiet,1,49,74,2026-04-13 10:19:36.633226
+5,5th Floor (Quiet),Call Numbers DG-E,35,10,Quiet,1,82,47,2026-04-13 10:19:28.563023
+5,5th Floor (Quiet),Call Numbers E-F,40,28,Quiet,1,50,18,2026-04-13 10:19:48.763959
 6,6th Floor (Quiet),Call Numbers G-HD,110,45,Quiet,1,18,47,2026-04-13 10:20:00.884497
-6,6th Floor (Quiet),Call Numbers HD-JC,110,44,Quiet,1,49,73,2026-04-13 10:15:34.179898
+6,6th Floor (Quiet),Call Numbers HD-JC,110,43,Quiet,1,49,73,2026-04-13 10:15:34.179898
 6,6th Floor (Quiet),Call Numbers JF-LG,110,42,Quiet,1,83,47,2026-04-13 10:19:39.667325
 6,6th Floor (Quiet),Oversized Materials,110,35,Quiet,1,49,19,2026-04-13 10:15:06.897982
 7,7th Floor (Quiet),Call Numbers P-PN,50,23,Quiet,1,18,47,2026-04-13 10:20:02.913304
-7,7th Floor (Quiet),Call Numbers PN-PQ,50,15,Quiet,1,50,70,2026-04-13 10:20:01.893228
-7,7th Floor (Quiet),Call Numbers PQ-PS,45,25,Quiet,1,82,46,2026-04-13 10:19:57.846944
-7,7th Floor (Quiet),Call Numbers PS-PT,50,26,Quiet,1,50,16,2026-04-11 21:48:04.985959
-8,8th Floor (Silent),Call Numbers Z4-Z253,40,38,Silent,0,19,45,2026-04-13 10:19:51.789660
+7,7th Floor (Quiet),Call Numbers PN-PQ,50,17,Quiet,1,50,70,2026-04-13 10:20:01.893228
+7,7th Floor (Quiet),Call Numbers PQ-PS,45,23,Quiet,1,82,46,2026-04-13 10:19:57.846944
+7,7th Floor (Quiet),Call Numbers PS-PT,50,25,Quiet,1,50,16,2026-04-11 21:48:04.985959
+8,8th Floor (Silent),Call Numbers Z4-Z253,40,37,Silent,0,19,45,2026-04-13 10:19:51.789660
 8,8th Floor (Silent),Call Numbers Z473-Z731,40,38,Silent,0,50,72,2026-04-13 10:19:54.815809
-8,8th Floor (Silent),Call Numbers Z731-Z2010,45,45,Silent,0,79,44,2026-04-13 10:19:40.680325
+8,8th Floor (Silent),Call Numbers Z731-Z2010,45,42,Silent,0,79,44,2026-04-13 10:19:40.680325
 8,8th Floor (Silent),Call Numbers Z2012-ZA,40,35,Silent,0,52,18,2026-04-13 10:19:58.856318
