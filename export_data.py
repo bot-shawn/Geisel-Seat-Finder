@@ -6,7 +6,7 @@ from flask import Flask, jsonify, request  # Added 'request' here
 from flask_cors import CORS
 import threading
 
-# 1. TABLEAU EXPORT
+# TABLEAU EXPORT
 def export():
     conn = sqlite3.connect('data/geisel_seats.db')
     df = pd.read_sql_query("SELECT * FROM floor_status", conn)
@@ -14,7 +14,7 @@ def export():
     print('Data successfully exported into CSV (Tableau Updated)')
     conn.close()
 
-# 2. FLASK SERVER SETUP
+# FLASK SERVER SETUP
 app = Flask(__name__)
 CORS(app)
 
@@ -43,14 +43,14 @@ def check_in():
     print(f"Someone checked into {floor_name}!")
     return jsonify({"status": "success"})
 
-# 3. SERVER THREADING
+# SERVER THREADING
 def run_server():
     # Use 0.0.0.0 so your phone can find your Mac on the Wi-Fi
     app.run(host='0.0.0.0', port=5000, debug=False, use_reloader=False)
 
 threading.Thread(target=run_server, daemon=True).start()
 
-# 4. DATA BRIDGE
+# DATA BRIDGE
 def update_app_data(total, floors):
     global latest_data
     latest_data = {"total": total, "floors": floors}

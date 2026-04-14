@@ -6,4 +6,4 @@ This prototype software will show the Geisel Library occupancy by sections on ea
 Structure of Project
 1. First we created the background database with SQLite, then we created managed_seats for the check-in and check-out feature, and a simulator to simulate people checking in and out.
 2. Then we created the Data Visualization using Tableau and published it on Tableau Public for a public share link.
-3. Finally we created the frontend interfaces using figma for the software and implemented the Data Visualization from Tableau. 
+3. Finally we created the frontend interfaces using figma(Prototyping) and Expo for the software and implemented the Data Visualization from Tableau. 
